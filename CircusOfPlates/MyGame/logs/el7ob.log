@@ -1,0 +1,339 @@
+2016-01-24 18:10:33 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:33 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:33 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:33 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:33 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:33 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:10:33 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:34 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:34 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:34 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:34 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:35 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:35 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:35 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:35 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:35 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:36 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:36 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:37 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:37 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:10:38 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:38 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:38 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:38 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:38 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:38 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:38 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:39 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:39 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:39 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:39 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:40 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:40 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:40 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:40 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:40 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:41 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:41 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:10:41 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:42 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:42 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:42 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:43 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:43 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:43 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:43 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:44 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:44 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:44 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:44 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:44 INFO  MyWorld:117 - intersection right
+2016-01-24 18:10:45 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:45 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:45 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:45 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:45 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:10:46 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:47 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:47 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:48 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:48 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:48 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:48 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:48 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:48 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:48 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:48 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:49 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:49 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:49 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:49 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:49 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:49 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:50 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:50 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:50 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:50 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:50 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:50 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:50 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:50 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:50 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:50 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:10:51 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:51 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:51 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:51 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:52 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:53 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:53 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:53 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:53 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:53 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:53 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:53 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:55 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:55 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:55 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:55 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:55 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:55 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:10:56 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:56 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:56 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:56 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:57 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:57 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:57 INFO  MyWorld:129 - intersection left
+2016-01-24 18:10:57 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:57 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:57 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:57 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:10:58 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:58 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:10:59 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:10:59 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:11:00 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:11:03 INFO  Main:17 - Enter Main
+2016-01-24 18:11:08 INFO  Frame:21 - New Frame
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Man
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2016-01-24 18:11:08 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2016-01-24 18:11:16 INFO  PauseState:24 - Pause Game
+2016-01-24 18:11:55 INFO  Main:17 - Enter Main
+2016-01-24 18:11:59 INFO  Frame:21 - New Frame
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Man
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2016-01-24 18:11:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2016-01-24 18:12:09 INFO  PauseState:24 - Pause Game
+2016-01-24 18:12:11 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:11 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:13 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:13 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:13 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:13 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:13 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:13 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:14 INFO  MyWorld:129 - intersection left
+2016-01-24 18:12:14 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:14 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:16 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:16 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:16 INFO  MyWorld:129 - intersection left
+2016-01-24 18:12:17 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:17 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:17 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:17 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:17 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:17 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:17 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:17 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:12:17 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:18 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:18 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:18 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:18 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:19 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:19 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:12:19 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:19 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:19 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:19 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:20 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:20 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:20 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:20 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:22 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:22 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:22 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:22 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:23 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:12:23 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:12:23 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:23 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:24 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:24 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:12:31 INFO  PauseState:24 - Pause Game
+2016-01-24 18:12:48 INFO  PauseState:24 - Pause Game
+2016-01-24 18:13:05 INFO  Main:17 - Enter Main
+2016-01-24 18:13:09 INFO  Frame:21 - New Frame
+2016-01-24 18:13:09 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Man
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2016-01-24 18:13:10 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2016-01-24 18:13:13 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:13 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:18 INFO  PauseState:24 - Pause Game
+2016-01-24 18:13:21 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:21 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:21 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:21 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:22 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:22 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:22 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:22 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:22 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:22 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:13:23 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:23 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:23 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:23 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:23 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:23 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:24 INFO  MyWorld:117 - intersection right
+2016-01-24 18:13:24 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:24 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:25 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:25 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:25 INFO  MyWorld:117 - intersection right
+2016-01-24 18:13:26 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:13:26 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:13:26 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:13:26 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:26 INFO  MyWorld:198 - bar dead, reuse bar in another position
+2016-01-24 18:13:26 INFO  MyWorld:148 - intersect bar & plate
+2016-01-24 18:13:26 INFO  MyWorld:209 - bar intersect, reduce bar life
+2016-01-24 18:13:27 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:13:27 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:13:27 INFO  MyWorld:219 - reuse the plate in another position
+2016-01-24 18:13:41 INFO  PauseState:24 - Pause Game
