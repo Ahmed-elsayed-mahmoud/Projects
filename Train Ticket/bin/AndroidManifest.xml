@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.TrainTicket"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/t"
+        android:label="Train Ticket"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity
+            android:name="com.example.TrainTicket.MainActivity"
+             >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.TrainTicket.Login"
+             ></activity>
+        <activity
+            android:name="com.example.TrainTicket.Signin"
+            ></activity>
+        <activity
+            android:name="com.example.TrainTicket.ReturnTicket"
+            ></activity>
+         <activity
+            android:name="com.example.TrainTicket.Welcome"
+             ></activity>   
+         <activity
+       	    android:name="com.example.TrainTicket.Ticket"
+         	></activity>  
+         <activity
+            android:name="com.example.TrainTicket.MySQLiteHelper"
+         	></activity> 
+         <activity
+            android:name="com.example.TrainTicket.BookTicket"
+        	 ></activity> 
+       	 <activity
+           android:name="com.example.TrainTicket.DisplayTicket"
+        	 ></activity>  
+    </application>
+
+</manifest>

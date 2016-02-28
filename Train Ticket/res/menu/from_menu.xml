@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/cairo"
+        android:title="Cairo"/>
+    <item
+        android:id="@+id/Alex"
+        android:title="Alexandrie"/>
+    <item
+        android:id="@+id/PortSaid"
+        android:title="Port Said"/>
+    <item
+        android:id="@+id/Suez"
+        android:title="Suez"/>
+    <item
+        android:id="@+id/Aswan"
+        android:title="Aswan"/>
+    <item
+        android:id="@+id/Luxor"
+        android:title="Luxor"/>
+    <item
+        android:id="@+id/Sohag"
+        android:title="Sohag"/>
+    <item
+        android:id="@+id/Hurghada"
+        android:title="Hurghada"/>
+    <item
+        android:id="@+id/Tanta"
+        android:title="Tanta"/>
+    <item
+        android:id="@+id/Giza"
+        android:title="Giza"/>
+    <item
+        android:id="@+id/Sina"
+        android:title="Sina"/>
+    <item
+        android:id="@+id/ElwadiElgedid"
+        android:title="ElWadi Elgedid"/>
+
+</menu>

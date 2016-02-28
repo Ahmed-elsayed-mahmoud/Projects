@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/j"
+    android:orientation="vertical"
+    android:weightSum="120" >
+
+    <EditText
+        android:textStyle="bold"
+        android:id="@+id/edName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="20"
+        android:ems="10"
+        android:textColor="#003EFF"
+        android:hint="Enter your name"
+        android:inputType="textPersonName"
+        android:textSize="25dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="20"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:text="Your Class :"
+            android:textColor="#003EFF"
+            android:textSize="25dp" />
+
+        <Button
+            android:textStyle="bold"
+            android:id="@+id/Bdeg"
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="20"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:textColor="#003EFF"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:text="From :"
+            android:textSize="25dp" />
+
+        <Button
+           
+            android:textStyle="bold"
+            android:id="@+id/Bfrom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="20"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:textColor="#003EFF"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:text="To :  "
+            android:textSize="25dp" />
+
+        <Button
+           
+            android:textStyle="bold"
+            android:id="@+id/Bto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="20"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:textColor="#003EFF"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:text="Time :"
+            android:textSize="25sp" />
+
+        <Button
+        
+            android:textStyle="bold"
+            android:id="@+id/Btime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/Bfinish"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="20"
+        android:text="Finish" />
+
+</LinearLayout>

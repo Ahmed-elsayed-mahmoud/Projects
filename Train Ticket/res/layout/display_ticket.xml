@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:gravity="center|top" >
+
+<Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:onClick="action"
+        android:text="Back"
+        android:textSize="20sp"
+
+        android:textColor="#D50000" />
+</LinearLayout>
+
+   <TextView
+       android:id="@+id/textView1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="your Last Booked Tickets"
+       android:textStyle="bold" 
+       android:textSize="26sp"
+       android:textColor="#003EFF"/>
+
+   <TextView
+       android:id="@+id/textView2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="++++++++++++++++++++"
+       android:textStyle="bold" 
+       android:textSize="28sp" />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cell_shape"
+                android:paddingBottom="20dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="20dp"
+                android:text="Name"
+                android:textColor="#FFFF00"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/from"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cell_shape"
+                android:paddingBottom="20dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="20dp"
+                android:text="From"
+                android:textColor="#FFFF00"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/to"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cell_shape"
+                android:paddingBottom="20dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="20dp"
+                android:text="To"
+                android:textColor="#FFFF00"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cell_shape"
+                android:paddingBottom="20dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="20dp"
+                android:text="Time"
+                android:textColor="#FFFF00"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/clas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cell_shape"
+                android:paddingBottom="20dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="20dp"
+                android:text="Class"
+                android:textColor="#FFFF00"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/n1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/f1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/ti1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/c1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <!-- </LinearLayout> -->
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/n2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/f2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/t2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/ti2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/c2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <!-- </LinearLayout> -->
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/n3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/f3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/ti3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/c3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <!-- </LinearLayout> -->
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/n4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/f4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/t4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/ti4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/c4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <!-- </LinearLayout> -->
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/n5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/f5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/t5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/ti5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/c5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellbroder"
+                android:paddingBottom="15dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="15dp"
+                android:text=" "
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+            <!-- </LinearLayout> -->
+        </TableRow>
+    </TableLayout>
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|bottom" >
+
+<Button
+    android:id="@+id/logout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="action"
+    android:text="Log Out"
+    android:textColor="#D50000"
+    android:textSize="30sp" />
+</LinearLayout>
+</LinearLayout>

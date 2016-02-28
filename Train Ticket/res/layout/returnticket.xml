@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/j">
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="action"
+        android:text="Log Out"
+        android:textColor="#D50000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:onClick="action"
+        android:text="Back"
+        android:textSize="20sp"
+
+        android:textColor="#D50000" />
+
+    <EditText
+        android:id="@+id/id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/logout"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Enter the ID of the ticket to return"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/id"
+        android:layout_alignLeft="@+id/id"
+        android:layout_alignRight="@+id/id"
+        android:layout_below="@+id/back"
+        android:layout_gravity="center" >
+
+            <TextView
+                android:id="@+id/message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="48dp"
+                android:textColor="#000000"
+                android:background="#FFFF00"
+                android:text="Sorry there is not any booked tickets  !!!!"
+                android:textSize="18sp" />
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/bdel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/id"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/id"
+        android:text="OK" />
+
+</RelativeLayout>

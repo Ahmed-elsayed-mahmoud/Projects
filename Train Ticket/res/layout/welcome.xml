@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/train">
+
+    <ImageButton
+        android:id="@+id/w_image"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/w_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/w_image"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/w_image"
+        android:text="Welcome"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:background="#444444"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:onClick="action"
+        android:textColor="#D50000"
+        android:text="Log Out"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/bookTicket"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/returnTicket"
+        android:layout_below="@+id/w_welcome"
+        android:layout_marginTop="38dp"
+        android:onClick="action"
+        android:text="Book A Ticket"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/returnTicket"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/logout"
+        android:layout_alignLeft="@+id/w_welcome"
+        android:layout_marginBottom="52dp"
+        android:layout_marginLeft="18dp"
+        android:onClick="action"
+        android:text="Return A Ticket"
+        android:textColor="@android:color/background_dark"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/displayTicket"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/bookTicket"
+        android:layout_below="@+id/bookTicket"
+        android:layout_marginTop="72dp"
+        android:onClick="action"
+        android:text="Display Ticket"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp" />
+
+</RelativeLayout>
