@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>AMD News</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- for fontawesome icon css file -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- for content animate css file -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- google fonts  -->
+    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Varela" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">   
+    <!-- for news ticker css file -->
+     <link href="css/li-scroller.css" rel="stylesheet">
+     <!-- slick slider css file -->
+    <link href="css/slick.css" rel="stylesheet">
+    <!-- for fancybox slider -->
+     <link href="css/jquery.fancybox.css" rel="stylesheet">    
+    <!-- website theme file -->
+     <link href="css/theme.css" rel="stylesheet">
+    <!-- main site css file -->    
+    <link href="style.css" rel="stylesheet">
+ 
+  </head>
+<body>
+  
+  <div class="container">
+    <!-- start header section -->
+    <header id="header">    
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="header_bottom">
+            <div class="logo_area">
+               <a href="#" class="logo">
+                News <span>Crawler</span>
+              </a> 
+            </div>
+            <div class="add_banner">
+              <a href="#"><img src="img/addbanner_728x90_V1.jpg" alt="img"></a>
+            </div>
+          </div>
+        </div>
+      </div>  
+    </header><!-- End header section --> 
+    <!-- start nav section --> 
+    <section id="navArea">
+      <!-- Start navbar -->
+      <nav class="navbar navbar-inverse" role="navigation">      
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>          
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav main_nav">
+            <li class="active"><a href="home.html"><span class="fa fa-home desktop-home"></span><span class="mobile-show">Home</span></a></li>
+            <li><a href="#">سياسة</a></li>            
+            <li><a href="sports.html">رياضة</a></li>
+            <li><a href="#">فن و مشاهير</a></li> 
+            <li><a href="about.html">من نحن</a></li>
+            <li><a href="contact.html">اتصل بنا</a></li>
+          </ul>           
+        </div><!--/.nav-collapse -->      
+      </nav>
+    </section><!-- End nav section -->
+	
+<section id="newsSection">
+	      <div class="row">
+		<div class="col-lg-12 col-md-12">
+		   <!-- start news sticker -->
+		  <div class="latest_newsarea">      
+		    <span>اخر اﻻخبار</span>
+		    <ul id="ticker01" class="news_sticker">
+<li><a href="./sports/عصام عبد الفتاح يعلن استقالته من رئاسة لجنة الحكام بعد قمة الكأس.html"><img src="img/news_thumbnail3.jpg" alt="">عصام عبد الفتاح يعلن استقالته من رئاسة لجنة الحكام بعد قمة الكأس</a></li> 
+<li><a href="./sports/رئيس الإسماعيلى يفتح تحقيقا فى نشر صورة حرق قميص الأهلى.html"><img src="img/news_thumbnail3.jpg" alt="">رئيس الإسماعيلى يفتح تحقيقا فى نشر صورة حرق قميص الأهلى</a></li> 
+<li><a href="./sports/فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى".html"><img src="img/news_thumbnail3.jpg" alt="">فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى"</a></li> 
+<li><a href="./sports/الاتحاد يفوز على أسوان بهدف نظيف وديا.html"><img src="img/news_thumbnail3.jpg" alt="">الاتحاد يفوز على أسوان بهدف نظيف وديا</a></li> 
+<li><a href="./sports/شباب الطائرة يهزمون المكسيك فى بطولة العالم.html"><img src="img/news_thumbnail3.jpg" alt="">شباب الطائرة يهزمون المكسيك فى بطولة العالم</a></li> 
+</ul>
+		    <div class="social_area">
+		      <ul class="social_nav">
+		        <li class="facebook"><a href="#"></a></li>
+		        <li class="twitter"><a href="#"></a></li>
+		        <li class="googleplus"><a href="#"></a></li>
+		        <li class="youtube"><a href="#"></a></li>
+		        <li class="mail"><a href="mailto:info@smartnews.com"></a></li>
+		      </ul>
+		    </div>      
+		  </div><!-- End news sticker -->
+		</div>
+	      </div>
+	    </section>
+	
+	    <!-- start slider section -->
+	    <section id="sliderSection">
+	      <div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8">
+		  <div class="slick_slider">
+<div class="single_iteam">
+              <a href="./sports/"شباب الطائرة يهزمون المكسيك فى بطولة العالم".html"><img alt="منتخب شباب الطائرة" src="http://img.youm7.com/images/NewsPics/large/32015131228.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/شباب الطائرة يهزمون المكسيك فى بطولة العالم.html">شباب الطائرة يهزمون المكسيك فى بطولة العالم</a></h2>
+                <p>فاز منتخب شباب الكرة الطائرة، على نظيره المكسيك ىبنتيجة 3 /0، فى إطار مباراة تحديد المركزين الخامس عشر والسادس عشر فى بطولة العالم المقامة بالمكسيك ليحتل المركز الـ "15 " .كان المنتخب قد خسر أمس اليابان فى مباراة تحديد المركزين</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="./sports/"المقاصة عن قرعة الدورى: مش هتفرق معانا لأننا هنقابل كل الفرق".html"><img alt="وليد هويدى" src="http://img.youm7.com/images/NewsPics/large/s7201029152443.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/المقاصة عن قرعة الدورى: مش هتفرق معانا لأننا هنقابل كل الفرق.html">المقاصة عن قرعة الدورى: مش هتفرق معانا لأننا هنقابل كل الفرق</a></h2>
+                <p>أكد وليد هويدى مدير الكرة بالمقاصة أنه راض عن القرعة التى تم الإعلان عليها لتحديد مباريات الدورى، معلقا: "مش هتفرق معانا لأننا هنقابل كل الفرق فى المسابقة".جدير بالذكر أن المقاصة يلتقى مع الشرطة فى الأسبوع الأول على استاد الفيوم ثم</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="./sports/"شوبير ينتقد نشر موقع الإسماعيلى صورة حرق علم الأهلى".html"><img alt="أحمد شوبير" src="http://img.youm7.com/images/NewsPics/large/s620103215135.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/شوبير ينتقد نشر موقع الإسماعيلى صورة حرق علم الأهلى.html">شوبير ينتقد نشر موقع الإسماعيلى صورة حرق علم الأهلى</a></h2>
+                <p>انتقد الإعلامى أحمد شوبير نشر الموقع الرسمى للإسماعيلى صور حرق علم الأهلى فى خلال ودية الدراويش اليوم أمام غزل بورسعيد، والتى انتهت بفوز الفريق الأصفر بهدفين دون رد. وأكد شوبير عبر برنامجه على قناة صدى البلد، أنه لا يصح على</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="./sports/"بالصور.. الذئاب يؤدون مرانهم بالنمسا تحت أنظار نائب رئيس المقاولون".html"><img alt="جانب من تدريبات فريق المقاولون العرب" src="http://img.youm7.com/images/NewsPics/large/920152022122753.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/بالصور.. الذئاب يؤدون مرانهم بالنمسا تحت أنظار نائب رئيس المقاولون.html">بالصور.. الذئاب يؤدون مرانهم بالنمسا تحت أنظار نائب رئيس المقاولون</a></h2>
+                <p>أدى فريق المقاولون العرب مرانهم المسائى اليوم تحت أنظار المهندس محمد عبد الكريم نائب رئيس النادى، والذى سافر إلى النمسا لرئاسة بعثة الذئاب خلال معسكرهم الخارجى بمدينة "لى" النمساوية.ويستعد المقاولون لخوض أولى تجاربه الودية غدا الاثنين أمام فريق ريد بول</p>
+              </div>
+            </div>
+</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			  <div class="latest_post">
+			    <h2><span>اهم اﻻخبار</span></h2>
+			    <div class="latest_post_container">
+			      <div id="prev-button"><i class="fa fa-chevron-up"></i></div>
+			      <ul class="latest_postnav">
+
+		
+<li>
+		  <div class="media">
+                    <a href="./sports/بالصور.. الذئاب يؤدون مرانهم بالنمسا تحت أنظار نائب رئيس المقاولون.html" class="media-left"><img alt="جانب من تدريبات فريق المقاولون العرب" src="http://img.youm7.com/images/NewsPics/large/920152022122753.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/بالصور.. الذئاب يؤدون مرانهم بالنمسا تحت أنظار نائب رئيس المقاولون.html" class="catg_title">بالصور.. الذئاب يؤدون مرانهم بالنمسا تحت أنظار نائب رئيس المقاولون</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/إبراهيم سعيد على صفحته بـ"تويتر": "أنا عار على الأهلى".html" class="media-left"><img alt="إبراهيم سعيد" src="http://img.youm7.com/images/NewsPics/large/62015181921625.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/إبراهيم سعيد على صفحته بـ"تويتر": "أنا عار على الأهلى".html" class="catg_title">إبراهيم سعيد على صفحته بـ"تويتر": "أنا عار على الأهلى"</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/مبروك يحذر دفاعات الأهلى من اختراقات "كهربا"وتسديدات معروف فى موقعة الكأس.html" class="media-left"><img alt="فتحى مبروك" src="http://img.youm7.com/images/NewsPics/large/s5201427155146.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/مبروك يحذر دفاعات الأهلى من اختراقات "كهربا"وتسديدات معروف فى موقعة الكأس.html" class="catg_title">مبروك يحذر دفاعات الأهلى من اختراقات "كهربا"وتسديدات معروف فى موقعة الكأس</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/طاهر يُتابع قمة الكأس من "مدينة الضباب".html" class="media-left"><img alt="محمود طاهر" src="http://img.youm7.com/images/NewsPics/large/1220141018398.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/طاهر يُتابع قمة الكأس من "مدينة الضباب".html" class="catg_title">طاهر يُتابع قمة الكأس من "مدينة الضباب"</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/شوقى غريب: زيدان يمتلك دوافع قوية للعودة للمنتخب.html" class="media-left"><img alt="محمد زيدان" src="http://img.youm7.com/images/NewsPics/large/42015221042363.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/شوقى غريب: زيدان يمتلك دوافع قوية للعودة للمنتخب.html" class="catg_title">شوقى غريب: زيدان يمتلك دوافع قوية للعودة للمنتخب</a>                        
+                    </div>
+                  </div>
+                </li>
+</ul>
+		     <div id="next-button"><i class="fa  fa-chevron-down"></i></div>
+		    </div>
+		  </div>
+		</div>
+	      </div>
+	    </section><!-- End slider section -->
+		<!-- ==================start content body section=============== -->
+	<section id="contentSection">
+	      <div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8">
+		  <div class="left_content">
+		    <div class="single_post_content">
+		  <h2><span>اﻻخبار</span></h2>
+		</div>
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/شوقى غريب: زيدان يمتلك دوافع قوية للعودة للمنتخب.html" class="featured_img"> <img alt="محمد زيدان" src="http://img.youm7.com/images/NewsPics/large/42015221042363.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/شوقى غريب: زيدان يمتلك دوافع قوية للعودة للمنتخب.html">شوقى غريب: زيدان يمتلك دوافع قوية للعودة للمنتخب</a>
+		                </figcaption><p dir="RTL">أكد شوقى غريب، المدير الفنى للإنتاج الحربى، أن محمد زيدان، يمتلك دوافع قوية، من أجل العودة إلى المنتخب الوطنى، من بوابة الإنتاج، موضحاً أن عودة زيدان للملاعب لم تكن من أجل البحث عن المال أو ما شابه ذلك، خاصة وأن الإنتاج لا يستطيع تعويض جزء من راتب "زيزو" الذى كان</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/ميدو لبرنامج "كورة كل يوم": أحذر من مذبحة جديدة بين جماهير الكرة.html" class="featured_img"><img alt="ميدو" src="http://img.youm7.com/images/NewsPics/large/s4201429173335.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/ميدو لبرنامج "كورة كل يوم": أحذر من مذبحة جديدة بين جماهير الكرة.html">ميدو لبرنامج "كورة كل يوم": أحذر من مذبحة جديدة بين جماهير الكرة</a>
+		                </figcaption>
+		                  <p dir="RTL">حذر أحمد حسام "ميدو"، المدير الفنى للإسماعيلى، من وقوع مذبحة جديدة بين جماهير الكرة المصرية فى ظل تزايد حالة الاحتقان بين الأندية الجماهيرية خاصة الأهلى والزمالك والإسماعيلى. كانت حالة من الشد والجذب نشبت بين جماهير الأهلى والإسماعيلى منذ هجوم جماهير الأحمر على الدراويش أمس، ليرد مشجعى القلعة الصفراء بحرق القميص</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/اتحاد الكرة: الأمن يحدد ملعب مباريات الأهلى أمام المصرى والإسماعيلى.html" class="featured_img"> <img alt="عامر حسين" src="http://img.youm7.com/images/NewsPics/large/s720117154622.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/اتحاد الكرة: الأمن يحدد ملعب مباريات الأهلى أمام المصرى والإسماعيلى.html">اتحاد الكرة: الأمن يحدد ملعب مباريات الأهلى أمام المصرى والإسماعيلى</a>
+		                </figcaption><p dir="RTL">أكد عامر حسين رئيس لجنة مسابقات كأس مصر أن الأمن سيحدد ملعب مباريات الأهلى أمام الإسماعيلى والمصرى فى بطولة الدورى الممتاز والمقرر انطلاقها 21 أكتوبر المقبل.كان الأهلى قد واجه المصرى والإسماعيلى فى الموسم المنقضى على استاد الجونة بالغردقة لأسباب أمنية.أخبار متعلقة - ننشر الجدول الكامل للدورى العام المصرى الموسم المقبل</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/أسامة عرابى: أحمد فتحى سيعوض غياب غالى عن قمة نهائى الكأس.html" class="featured_img"><img alt="أحمد فتحى" src="http://img.youm7.com/images/NewsPics/large/720152162059696.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/أسامة عرابى: أحمد فتحى سيعوض غياب غالى عن قمة نهائى الكأس.html">أسامة عرابى: أحمد فتحى سيعوض غياب غالى عن قمة نهائى الكأس</a>
+		                </figcaption>
+		                  <p dir="RTL">أكد أسامة عرابى مدرب عام منتخب مصر الأوليمبى، أن وجود أحمد فتحى، فى منطقة وسط الأهلى، سيعوض غياب حسام غالى، فى مباراة القمة، المرتقبة، غداً الاثنين، على أستاد بترو سبورت، فى نهائى كأس مصر.أضاف عرابى، الذى حل ضيفاً على الإعلامى سيف زاهر، فى برنامجه "الملاعب اليوم" أن خروج وليد سليمان،</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/الإسماعيلى يهزم غزل بورسعيد 20 فى ودية الهجوم على الأهلى.html" class="featured_img"> <img alt="فريق الإسماعيلى" src="http://img.youm7.com/images/NewsPics/large/42015817254.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الإسماعيلى يهزم غزل بورسعيد 20 فى ودية الهجوم على الأهلى.html">الإسماعيلى يهزم غزل بورسعيد 2/0 فى ودية الهجوم على الأهلى</a>
+		                </figcaption><p dir="RTL">فاز الإسماعيلى على فريق غزل بورسعيد بهدفين مقابل لا شىء فى المباراة الودية التى جمعتهما اليوم على أستاد الإسماعيلية استعدادا للموسم الجديد. وسجل ثنائية الدراويش فى مباراة اليوم كل من الغانى توريك جبرين من ركلة جزاء، ومروان محسن. وشهدت الودية حضور جماهيرى مكثف، وشن هجوما حادا على جماهير الأهلى، وحرق</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/أحمد سليمان: "جنش" قادر على حماية عرين الزمالك أمام الأهلى.html" class="featured_img"><img alt="أحمد سليمان - أرشيفية" src="http://img.youm7.com/images/NewsPics/large/3320142692237.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/أحمد سليمان: "جنش" قادر على حماية عرين الزمالك أمام الأهلى.html">أحمد سليمان: "جنش" قادر على حماية عرين الزمالك أمام الأهلى</a>
+		                </figcaption>
+		                  <p dir="RTL">أكد أحمد سليمان، عضو مجلس إدارة الزمالك السابق، أن محمود عبد الرحيم "جنش" قادر على حماية عرين الفريق الابيض أمام الأهلى فى نهائى كأس مصر غدًا.كان البرتغالى فيريرا، المدير الفنى للزمالك استبعد أحمد الشناوى من قائمة المباراة، وقرر الاعتماد على جنش أساسيا. أوضح عضو مجلس الزمالك السابق فى تصريحات تليفزيونية</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/محمد صفوت يتوج بلقب فيوتشر القاهرة للتنس.html" class="featured_img"> <img alt="محمد صفوت" src="http://img.youm7.com/images/NewsPics/large/1201523225030.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/محمد صفوت يتوج بلقب فيوتشر القاهرة للتنس.html">محمد صفوت يتوج بلقب فيوتشر القاهرة للتنس</a>
+		                </figcaption><p dir="RTL">توج محمد صفوت لاعب المنتخب الوطنى للتنس بلقب بطولة فيوتشر القاهرة، بعد الفوز فى النهائى على النمساوى باستيان تانيكر بنتيجة 2/0 ، بواقع (7-6 , 6-0).كان صفوت تأهل إلى النهائى أمس السبت بعد الفوز على مواطنه كريم مأمون بنتيجة 2 /1 فى دور نصف النهائى.</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/علام: خطاب الأهلى لا يشمل &quot;أوامر&quot;لاتحاد الكرة.. ولا أعلم سبب تعنت الجبلاية.html" class="featured_img"><img alt="محمود علام" src="http://img.youm7.com/images/NewsPics/large/s120122218246.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/علام: خطاب الأهلى لا يشمل "أوامر" لاتحاد الكرة.. ولا أعلم سبب تعنت الجبلاية.html">علام: خطاب الأهلى لا يشمل "أوامر" لاتحاد الكرة.. ولا أعلم سبب تعنت الجبلاية</a>
+		                </figcaption>
+		                  <p dir="RTL">أكد اللواء محمود علام، المدير التنفيذى للأهلى، أن الخطاب الذى تم أرساله اليوم، لاتحاد الكرة، جاء من أجل التأكيد على أن مسئولى القلعة الحمراء، سيلتزمون بجميع البنود التى وضعت من أجل العبور بمباراة القمة، فى نهائى كأس مصر، إلى بر الأمان، وخوض لقاء يليق بأسم الكرة المصرية.أوضح علام، فى تصريحات</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/أشعة على "قدم" وليد سليمان تُحدد مصيره من مباراة أورلاندو بالكونفدرالية.html" class="featured_img"> <img alt="فريق الأهلى" src="http://img.youm7.com/images/NewsPics/large/9201512222810490.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/أشعة على "قدم" وليد سليمان تُحدد مصيره من مباراة أورلاندو بالكونفدرالية.html">أشعة على "قدم" وليد سليمان تُحدد مصيره من مباراة أورلاندو بالكونفدرالية</a>
+		                </figcaption><p dir="RTL">أكد خالد محمود طبيب الأهلى أن وليد سليمان لاعب الفريق سيجرى أشعة خلال الساعات القليلة المقبلة لتحديد حجم الإصابة ومدى امكانية سفره مع بعثة الأهلى المتوجهة بعد غدا"الثلاثاء"إلى جنوب افريقيا لخوض مباراة ذهاب نصف نهائى الكونفدرالية أمام أورلاندو بيرايتس والمقرر لها السبت المقبل .وتعرض وليد سليمان لألتواء فى الكاحل خلال</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/رسميا.. الأمن يوافق على إقامة مباريات أسوان بالإستاد بدون جماهير.html" class="featured_img"><img alt="أستاد أسوان" src="http://img.youm7.com/images/NewsPics/large/920152020722586.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/رسميا.. الأمن يوافق على إقامة مباريات أسوان بالإستاد بدون جماهير.html">رسميا.. الأمن يوافق على إقامة مباريات أسوان بالإستاد بدون جماهير</a>
+		                </figcaption>
+		                  <p dir="RTL">أعلن مسئولو مديرية امن محافظة أسوان بقيادة اللواء عمر ناصر موافقتهم الرسمية على استضافة إستاد أسوان لمباريات الفريق فى الدورى الممتاز.وتسلم مجلس إدارة نادى أسوان خطابا رسميا من مديرية الأمن يخطرهم بالموافقة على لعب الفريق مباريات الدورى الممتاز على إستاد أسوان بدون جماهير بسبب الإصلاحات التى طلبها الأمن من مسئولى</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/غريب: الأهلى محتاج الكأس أكثر من الزمالك.html" class="featured_img"> <img alt="شوقى غريب مدرب الإنتاج الحربى" src="http://img.youm7.com/images/NewsPics/large/3201517211617.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/غريب: الأهلى محتاج الكأس أكثر من الزمالك.html">غريب: الأهلى محتاج الكأس أكثر من الزمالك</a>
+		                </figcaption><p dir="RTL">أكد شوقى غريب المدير الفنى للإنتاج الحربى أن النادى الأهلى يحتاج إلى الفوز ببطولة كاس مصر أكثر من نادى الزمالك حامل لقب بطولة الدورى.وأضاف أن اللقاء صعب على الفريقين وان الابيض سيخوض لقاء يختلف تماما عن مباراة الدورى الاخيرة التى انتهت بفوز الاهلى بهدفين لان الدوافع فى المباراة ستكون أعلى</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/على أبو القاسم يحقق المركز الخامس بمونديال الجمباز.html" class="featured_img"><img alt="على أبو القاسم لاعب منتخب الجمباز" src="http://img.youm7.com/images/NewsPics/large/9201520195912706.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/على أبو القاسم يحقق المركز الخامس بمونديال الجمباز.html">على أبو القاسم يحقق المركز الخامس بمونديال الجمباز</a>
+		                </figcaption>
+		                  <p dir="RTL">نجح على أبو القاسم لاعب منتخب الجمباز الفنى فى تحقيق المركز الخامس بمنافسات جهاز الحلق ببطولة كاس العالم للجمباز والتى تقام بكرواتيا.يذكر ان نانسى طمان لاعبة المنتخب احتلت المركز الرابع بمنافسات حصان القفز بالبطولة.</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/التواء"الكاحل" وراء استبعاد الحاوى من قائمة الأهلى أمام الزمالك.html" class="featured_img"> <img alt="وليد سليمان" src="http://img.youm7.com/images/NewsPics/large/2201521213345.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/التواء"الكاحل" وراء استبعاد الحاوى من قائمة الأهلى أمام الزمالك.html">التواء"الكاحل" وراء استبعاد الحاوى من قائمة الأهلى أمام الزمالك</a>
+		                </figcaption><p dir="RTL">تعرض وليد سليمان لاعب الوسط المهاجم بفريق الأهلى للإصابة بالتواء فى الكاحل تسببت فى الآم شديدة فى الكاحل والركبة ما اضطر الجهاز الفنى بقيادة فتحى مبروك لاستبعاده من قائمة مباراة الزمالك فى نهائى كأس مصر والتى تقام فى السابعة مساء غدا بملعب بتروسبورت.وأعلن فتحى مبروك نيته ضم اللاعب فى قائمة</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/الزمالك يختتم استعداداته للقمة بـ"ركلات الترجيح".html" class="featured_img"><img alt="أحمد الشناوى حارس الزمالك" src="http://img.youm7.com/images/NewsPics/large/720152120453143.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الزمالك يختتم استعداداته للقمة بـ"ركلات الترجيح".html">الزمالك يختتم استعداداته للقمة بـ"ركلات الترجيح"</a>
+		                </figcaption>
+		                  <p dir="RTL">خاض الفريق الكروى بنادى الزمالك مرانه الختامى استعدادا لمواجهة النادى الأهلى غداً الاثنين فى نهائى كأس مصر الساعة السابعة مساءا بإستاد بتروسبورت.وشهد مران الزمالك اليوم مشاركة كافة اللاعبين ليتأكد جاهزية لاعبى الأبيض لخوض مباراة القمة باستثناء الثنائى إبراهيم صلاح ومحمد إبراهيم المصابين.وحرص الجهاز الفنى للأبيض بقيادة البرتغالى فيريرا على تدريب</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/بالصور.. محمد زيدان فى تدريبات الإنتاج الحربى.html" class="featured_img"> <img alt="تدريبات الإنتاج الحربى" src="http://img.youm7.com/images/NewsPics/large/9201520194332314.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/بالصور.. محمد زيدان فى تدريبات الإنتاج الحربى.html">بالصور.. محمد زيدان فى تدريبات الإنتاج الحربى</a>
+		                </figcaption><p dir="RTL">شارك محمد زيدان لاعب بنى ياس الاماراتى السابق، فى أول مران له مع فريق الانتاج الحربى اليوم على ملعب المصانع الحربية بمصر الجديدة عقب عودة الفريق العسكرى من معسكر شرم الشيخ .وكان اللاعب قد انضم لمعسكر الفريق بشرم الشيخ الثلاثاء الماضى عقب التوقيع لمدة موسم وبموافقة شوقى غريب المدير الفنى</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/بالصور.. جماهير الإسماعيلى تحرق "قميص الأهلى".html" class="featured_img"><img alt="جماهير الاسماعيلى" src="http://img.youm7.com/images/NewsPics/large/9201520212248196.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/بالصور.. جماهير الإسماعيلى تحرق "قميص الأهلى".html">بالصور.. جماهير الإسماعيلى تحرق "قميص الأهلى"</a>
+		                </figcaption>
+		                  <p dir="RTL">قامت جماهير الإسماعيلى بحرق قميص الأهلى خلال تواجدها فى مدرجات استاد الإسماعيلية لمواجهة مباراة فريقها الودية أمام غزل بورسعيد فى إطار استعدادات الدراويش للموسم الجديد. وجاء هجوم جماهير الإسماعيلى وهتافاتها ضد الأهلى وحرق القميص كنوع من الرد على هجوم جماهير الأهلى أمس باستاد مختار التتش على النادى الاسماعيلى، خلال تدريب</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/إنبى يهزم الرجاء بهدف فراج.html" class="featured_img"> <img alt="انبى" src="http://img.youm7.com/images/NewsPics/large/8201518213624276.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/إنبى يهزم الرجاء بهدف فراج.html">إنبى يهزم الرجاء بهدف فراج</a>
+		                </figcaption><p dir="RTL">فاز انبى على الرجاء بهدف نظيف فى المباراة الودية التى جمعتهما اليوم على ملعب استاد برج العرب ضمن استعدادات الفريق البترولى للموسم الجديد، أحرز وائل فراج هدف اللقاء الوحيد.يذكر أن مواجهة الرجاء هى المباراة الودية الأخيرة لإنبى فى معسكره المغلق بقرية أفريكانو قبل العودة الى القاهرة لأداء التدريبات من استاد</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/الأهلى يرفض "بطاقات تعارف" الجبلاية فى قمة نهائى الكأس.html" class="featured_img"><img alt="محمود علام - أرشيفية" src="http://img.youm7.com/images/NewsPics/large/s120122218246.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الأهلى يرفض "بطاقات تعارف" الجبلاية فى قمة نهائى الكأس.html">الأهلى يرفض "بطاقات تعارف" الجبلاية فى قمة نهائى الكأس</a>
+		                </figcaption>
+		                  <p dir="RTL">رفض اللواء محمود علام، المدير التنفيذى للنادى الأهلى، الإعتماد على بطاقات التعارف "ID" فى دخول أعضاء مجلس إداراتى الأهلى والزمالك، لاستاد بترو سبورت، الذى سيحتضن لقاء القمة، فى نهائى كأس مصر.أكد علام، فى تصريحات لبرنامج "الملاعب اليوم" مع الإعلامى سيف زاهر، أن مجلس القلعة الحمراء، وافق فى بداية الأمر على</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<div class="postnav">
+	      <ul>
+		<li><a href="spots.html">1</a></li>
+		<li><a href="2.html">2</a></li>
+		<li><a href="3.html">&raquo;</a></li>
+	      </ul>
+	      <div class="break"></div>
+	    </div>
+            </div>
+            <!-- End 2 style category design -->          
+          </div>
+	<div class="col-lg-4 col-md-4 col-sm-4">
+          <aside class="right_content">
+            <!-- start tab section -->
+            <div class="single_sidebar">
+               <!-- Nav tabs -->
+              <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation"><a href="#video" aria-controls="profile" role="tab" data-toggle="tab">فيديوهات</a></li>
+                <li role="presentation"><a href="#images" aria-controls="messages" role="tab" data-toggle="tab">صور</a></li>               
+              </ul>
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane" id="video">
+                  <div class="vide_area">                   
+                    <iframe  width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe  width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="images">
+                  <ul class="spost_nav">
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img1.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 1</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img2.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 2</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img1.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 3</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img2.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 4</a>                       
+                    </div>
+                  </div>
+                </li>
+              </ul>
+                </div>
+              </div>            
+            </div>
+            <!-- End tab section -->
+            
+          </aside>
+        </div>
+  </div>  
+    </section> <!-- ==================End content body section=============== -->    
+    <footer id="footer">       
+             
+      <div class="footer_bottom">
+        <p class="copyright">
+          &copy; حقوق الطبع والنشر محفوظة ل <a href="#" style="color:red">  A  M  D </a> 2015
+        </p>
+      </div>    
+    </footer>
+  </div> <!-- /.container -->
+  
+
+  <!-- jQuery Library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <!-- For content animatin  -->
+  <script src="js/wow.min.js"></script>
+  <!-- bootstrap js file -->
+  <script src="js/bootstrap.min.js"></script> 
+  <!-- slick slider js file -->
+  <script src="js/slick.min.js"></script> 
+  <!-- news ticker jquery file -->
+  <script src="js/jquery.li-scroller.1.0.js"></script>
+  <!-- for news slider -->
+  <script src="js/jquery.newsTicker.min.js"></script>
+  <!-- for fancybox slider -->
+  <script src="js/jquery.fancybox.pack.js"></script>
+  <!-- custom js file include -->    
+  <script src="js/custom.js"></script> 
+  <script type="text/javascript">
+	$(document).ready(function(){
+	$("img").on("error", function() {
+  	$(this).attr("src", "missing.jpg");
+	})
+	.each(function() {
+	    if(this.complete) {
+	      $(this).load();
+	   } else if(this.error) {
+	      $(this).error();
+	    }
+	});
+	});
+   </script> 
+  </body>
+</html>

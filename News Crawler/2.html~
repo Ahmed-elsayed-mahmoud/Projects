@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>AMD News</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- for fontawesome icon css file -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- for content animate css file -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- google fonts  -->
+    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Varela" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">   
+    <!-- for news ticker css file -->
+     <link href="css/li-scroller.css" rel="stylesheet">
+     <!-- slick slider css file -->
+    <link href="css/slick.css" rel="stylesheet">
+    <!-- for fancybox slider -->
+     <link href="css/jquery.fancybox.css" rel="stylesheet">    
+    <!-- website theme file -->
+     <link href="css/theme.css" rel="stylesheet">
+    <!-- main site css file -->    
+    <link href="style.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	
+ 
+  </head>
+<body>
+  
+  <div class="container">
+    <!-- start header section -->
+    <header id="header">    
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="header_bottom">
+            <div class="logo_area">
+               <a href="#" class="logo">
+                News <span>Crawler</span>
+              </a> 
+            </div>
+            <div class="add_banner">
+              <a href="#"><img src="img/addbanner_728x90_V1.jpg" alt="img"></a>
+            </div>
+          </div>
+        </div>
+      </div>  
+    </header><!-- End header section --> 
+    <!-- start nav section --> 
+    <section id="navArea">
+      <!-- Start navbar -->
+      <nav class="navbar navbar-inverse" role="navigation">      
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>          
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav main_nav">
+            <li class="active"><a href="home.html"><span class="fa fa-home desktop-home"></span><span class="mobile-show">Home</span></a></li>
+            <li><a href="#">سياسة</a></li>            
+            <li><a href="sports.html">رياضة</a></li>
+            <li><a href="#">فن و مشاهير</a></li> 
+            <li><a href="about.html">من نحن</a></li>
+            <li><a href="contact.html">اتصل بنا</a></li>
+          </ul>           
+        </div><!--/.nav-collapse -->      
+      </nav>
+    </section><!-- End nav section -->
+	
+<section id="newsSection">
+	      <div class="row">
+		<div class="col-lg-12 col-md-12">
+		   <!-- start news sticker -->
+		  <div class="latest_newsarea">      
+		    <span>اخر اﻻخبار</span>
+		    <ul id="ticker01" class="news_sticker">
+<li><a href="./sports/رئيس الأهلى يُطالب أعضاء المجلس بحضور نهائى الكأس من المدرجات.html"><img src="img/news_thumbnail3.jpg" alt="">رئيس الأهلى يُطالب أعضاء المجلس بحضور نهائى الكأس من المدرجات</a></li> 
+<li><a href="./sports/الزمالك يتمسك بمكافآت اللائحة فى القمة.html"><img src="img/news_thumbnail3.jpg" alt="">الزمالك يتمسك بمكافآت اللائحة فى القمة</a></li> 
+<li><a href="./sports/"أسوان" يتسلم البطاقة الدولية للغينى كيتا ويقيده تحت السن.html"><img src="img/news_thumbnail3.jpg" alt="">"أسوان" يتسلم البطاقة الدولية للغينى كيتا ويقيده تحت السن</a></li> 
+<li><a href="./sports/شوبير ينتقد المتحدث الرسمى للإسماعيلى ويحمله مسئولية الاحتقان.html"><img src="img/news_thumbnail3.jpg" alt="">شوبير ينتقد المتحدث الرسمى للإسماعيلى ويحمله مسئولية الاحتقان</a></li> 
+<li><a href="./sports/لاعب المقاولون السابق يحتفل بزفافه فى حضور نجوم الشرطة.html"><img src="img/news_thumbnail3.jpg" alt="">لاعب المقاولون السابق يحتفل بزفافه فى حضور نجوم الشرطة</a></li> 
+</ul>
+		    <div class="social_area">
+		      <ul class="social_nav">
+		        <li class="facebook"><a href="#"></a></li>
+		        <li class="twitter"><a href="#"></a></li>
+		        <li class="googleplus"><a href="#"></a></li>
+		        <li class="youtube"><a href="#"></a></li>
+		        <li class="mail"><a href="mailto:info@smartnews.com"></a></li>
+		      </ul>
+		    </div>      
+		  </div><!-- End news sticker -->
+		</div>
+	      </div>
+	    </section>
+	
+	    <!-- start slider section -->
+	    <section id="sliderSection">
+	      <div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8">
+		  <div class="slick_slider">
+<div class="single_iteam">
+              <a href="./sports/"لاعب المقاولون السابق يحتفل بزفافه فى حضور نجوم الشرطة".html"><img alt="محمد عادل يحتفل بزفافه" src="http://img.youm7.com/images/NewsPics/large/92015210727274.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/لاعب المقاولون السابق يحتفل بزفافه فى حضور نجوم الشرطة.html">لاعب المقاولون السابق يحتفل بزفافه فى حضور نجوم الشرطة</a></h2>
+                <p>احتفل محمد عادل لاعب وسط المقاولون العرب السابق والشرطة الحالى بحفل زفافه وسط حضور مجموعة من أصدقائه من لاعبى الشرطة مثل عماد حلمى وخالد الغندور ووائل سعيد وكيل اللاعبين.وتخلف لاعبو المقاولون عن حضور زفاف زميلهم السابق بسبب تواجدهم فى النمسا</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="./sports/"عصام عبد الفتاح يعلن استقالته من رئاسة لجنة الحكام بعد قمة الكأس".html"><img alt="عصام عبد الفتاح" src="http://img.youm7.com/images/NewsPics/large/1120148102152.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/عصام عبد الفتاح يعلن استقالته من رئاسة لجنة الحكام بعد قمة الكأس.html">عصام عبد الفتاح يعلن استقالته من رئاسة لجنة الحكام بعد قمة الكأس</a></h2>
+                <p>أعلن عصام عبد الفتاح عضو اتحاد الكرة ورئيس لجنة الحكام استقالته من رئاسة اللجنة عقب مباراة الأهلى والزمالك فى نهائى الكأس.قال عبد الفتاح فى تصريحات لبرنامج صفحة الرياضة على قناة النيل للرياضة، إن المناخ الحالى لا يساعد على النجاح، خاصة</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="./sports/"رئيس الإسماعيلى يفتح تحقيقا فى نشر صورة حرق قميص الأهلى".html"><img alt="محمد أبو السعود" src="http://img.youm7.com/images/NewsPics/large/33201430172641.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/رئيس الإسماعيلى يفتح تحقيقا فى نشر صورة حرق قميص الأهلى.html">رئيس الإسماعيلى يفتح تحقيقا فى نشر صورة حرق قميص الأهلى</a></h2>
+                <p>استنكر العميد محمد أبو السعود، رئيس الاسماعيلى، وجود صورة تحمل شعار الموقع الرسمى للنادى لحرق قميص الأهلى خلال ودية الفريق اليوم أمام غزل بورسعيد، مؤكدًا فتح تحقيق ومحاسبة المخطئ.كانت جماهير الإسماعيلى قامت بحرق قميص الأهلى خلال تواجدها فى مدرجات استاد</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="./sports/"فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى"".html"><img alt="حرق قميص الأهلى" src="http://img.youm7.com/images/NewsPics/large/92015202327487.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="./sports/فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى".html">فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى"</a></h2>
+                <p>حصل "اليوم السابع" على فيديو قيام جماهير الإسماعيلى بحرق علم الأهلى خلال تواجدها فى مدرجات استاد الإسماعيلية لمواجهة مباراة فريقها الودية أمام غزل بورسعيد فى إطار استعدادات الدراويش للموسم الجديد. وجاء هجوم جماهير الإسماعيلى وهتافاتها ضد الأهلى وحرق العلم كنوع</p>
+              </div>
+            </div>
+</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			  <div class="latest_post">
+			    <h2><span>اهم اﻻخبار</span></h2>
+			    <div class="latest_post_container">
+			      <div id="prev-button"><i class="fa fa-chevron-up"></i></div>
+			      <ul class="latest_postnav">
+
+		
+<li>
+		  <div class="media">
+                    <a href="./sports/فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى".html" class="media-left"><img alt="حرق قميص الأهلى" src="http://img.youm7.com/images/NewsPics/large/92015202327487.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى".html" class="catg_title">فيديو حرق جماهير الإسماعيلى لـ"علم الأهلى"</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/الاتحاد يفوز على أسوان بهدف نظيف وديا.html" class="media-left"><img alt="فريق الاتحاد" src="http://img.youm7.com/images/NewsPics/large/9201512173150.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/الاتحاد يفوز على أسوان بهدف نظيف وديا.html" class="catg_title">الاتحاد يفوز على أسوان بهدف نظيف وديا</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/شباب الطائرة يهزمون المكسيك فى بطولة العالم.html" class="media-left"><img alt="منتخب شباب الطائرة" src="http://img.youm7.com/images/NewsPics/large/32015131228.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/شباب الطائرة يهزمون المكسيك فى بطولة العالم.html" class="catg_title">شباب الطائرة يهزمون المكسيك فى بطولة العالم</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/المقاصة عن قرعة الدورى: مش هتفرق معانا لأننا هنقابل كل الفرق.html" class="media-left"><img alt="وليد هويدى" src="http://img.youm7.com/images/NewsPics/large/s7201029152443.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/المقاصة عن قرعة الدورى: مش هتفرق معانا لأننا هنقابل كل الفرق.html" class="catg_title">المقاصة عن قرعة الدورى: مش هتفرق معانا لأننا هنقابل كل الفرق</a>                        
+                    </div>
+                  </div>
+                </li>
+<li>
+		  <div class="media">
+                    <a href="./sports/شوبير ينتقد نشر موقع الإسماعيلى صورة حرق علم الأهلى.html" class="media-left"><img alt="أحمد شوبير" src="http://img.youm7.com/images/NewsPics/large/s620103215135.jpg"></a>
+                    <div class="media-body">
+                      <a href="./sports/شوبير ينتقد نشر موقع الإسماعيلى صورة حرق علم الأهلى.html" class="catg_title">شوبير ينتقد نشر موقع الإسماعيلى صورة حرق علم الأهلى</a>                        
+                    </div>
+                  </div>
+                </li>
+</ul>
+		     <div id="next-button"><i class="fa  fa-chevron-down"></i></div>
+		    </div>
+		  </div>
+		</div>
+	      </div>
+	    </section><!-- End slider section -->
+		<!-- ==================start content body section=============== -->
+	<section id="contentSection">
+	      <div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8">
+		  <div class="left_content">
+		    <div class="single_post_content">
+		  <h2><span>اﻻخبار</span></h2>
+		</div>
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/إيفونا يطلب المشاركة في "القمة".. وفتحي مبروك يرفض.html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop/images%7Ccms-image-000034943.jpg" alt="إيفونا (photo: )" style="margin-top: 12px;">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/إيفونا يطلب المشاركة في "القمة".. وفتحي مبروك يرفض.html">إيفونا يطلب المشاركة في "القمة".. وفتحي مبروك يرفض</a>
+		                </figcaption><p dir="RTL">طالب، مهاجم الأهلي، ماليك إيفونا، المشاركة في لقاء القمة أمام الزمالك، إلا أن فتحي مبروك المدير الفني للفريق رفض طلب اللاعب.  وجاء رفض مبروك، بدافع أن اللاعب لم يتدرب جيدا خلال الفترة الماضية، وهو ما سيؤثر على أدائه بالسلب في المباراة النهائية لكأس لمصر، غدا على ملعب بترو سبورت.  </p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/تعرف على تشكيل الأهلي المتوقع أمام الزمالك.. و"الجوكر" يراقب كهربا.html" class="featured_img"><img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop/images%7Ccms-image-000035979.jpg" alt="أحمد فتحي  (photo: )" style="margin-top: 12px;"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/تعرف على تشكيل الأهلي المتوقع أمام الزمالك.. و"الجوكر" يراقب كهربا.html">تعرف على تشكيل الأهلي المتوقع أمام الزمالك.. و"الجوكر" يراقب كهربا</a>
+		                </figcaption>
+		                  <p dir="RTL">حصل "الوطن سبورت" على التشكيل المتوقع للنادي الأهلي، والذي سيواجه الزمالك غدا في نهائي كأس مصر، على ستاد بترو سبورت بالتجمع الخامس في تمام الساعة السابعة مساءا.  وجاء التشكيل المتوقع كالتالي  - شريف إكرامي حراسة المرمى - الدفاع: باسم علي، سعد سمير، محمد نجيب حسين السيد. - خط الوسط: حسام</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/جماهير الاسماعيلي تشعل النار بعلم الأهلي بودية بورسعيد.html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop/images%7Ccms-image-000037361.jpg" alt="الاسماعيلي (photo: )" style="margin-top: 12px;">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/جماهير الاسماعيلي تشعل النار بعلم الأهلي بودية بورسعيد.html">جماهير الاسماعيلي تشعل النار بعلم الأهلي بودية بورسعيد</a>
+		                </figcaption><p dir="RTL">قامت جماهير نادي الاسماعيلي بإشعال النيران في علم النادي الأهلي خلال ودية الفريق أمام غزل بورسعيد . حيث قامت الجماهير بتوجيه الهتافات العدائية ضد الأهلي خلال المران للرد على ما قام به جماهير الاهلي  خلال مران امس. </p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/الزمالك يختار الشورت "الازرق" أمام الأهلي.html" class="featured_img"><img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=37326" alt="الأهلي والزمالك - باسم مرسي" style="margin-top: 12px"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الزمالك يختار الشورت "الازرق" أمام الأهلي.html">الزمالك يختار الشورت "الازرق" أمام الأهلي</a>
+		                </figcaption>
+		                  <p dir="RTL">  تقرر أن يرتدي الزمالك الزي المكون من القميص الأبيض والشورت الأزرق خلال مباراة الأهلي المقرر لها مساء الغد الإثنين بنهائي مسابقة كأس مصر. حيث كان يدرس الجهاز الفني الدفع بالطاقم الازرق بالكامل ولكن الجهاز فضل الدفع بالفانلة البيضاء والشورت الاحتياطي   </p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/الشيخ وانطوي يظهران بقائمة الأهلي لمواجهة الزمالك.html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop/images%7Ccms-image-000032064.jpg" alt="انطوي (photo: )" style="margin-top: 12px;">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الشيخ وانطوي يظهران بقائمة الأهلي لمواجهة الزمالك.html">الشيخ وانطوي يظهران بقائمة الأهلي لمواجهة الزمالك</a>
+		                </figcaption><p dir="RTL">أعلن فتحي مبروك المدير الفني لفريق الأهلي عن القائمة التي سيخوض بها مباراة الزمالك في نهائي كأس مصر المقرر لها السابعة مساء الاثنين بملعب بتروسبورت. ضمت القائمة 19 لاعبا وهم شريف اكرامي وأحمد عادل وباسم علي وأحمد فتحي ومحمد نجيب وشريف حازم وسعد سمير وحسين السيد وصبري رحيل وحسام عاشوروصالح</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/فيريرا يعلن قائمة الزمالك بقمة الكأس واستبعاد الشناوي.html" class="featured_img"><img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=33924" alt="جيسوالدو فيريرا" style="margin-top: 12px"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/فيريرا يعلن قائمة الزمالك بقمة الكأس واستبعاد الشناوي.html">فيريرا يعلن قائمة الزمالك بقمة الكأس واستبعاد الشناوي</a>
+		                </figcaption>
+		                  <p dir="RTL">اعلن البرتغالي جيسوالدوا فيريرا المدير الفني للزمالك عن قائمة مباراة الفريق لمباراة الأهلي المقرر لها مساء الغد الإثنين بنهائي كأس مصر. وتضم القائمة كل من: محمود عبد الرحيم "جنش" – محمد أبو جبل – محمد كوفي – أحمد دويدار – علي جبر – حمادة طلبة – شريف علاء – حازم</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/"ربيعة" يقترب من التواجد في القمة.html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=3262" alt="رامي ربيعة " style="margin-top: 12px">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/"ربيعة" يقترب من التواجد في القمة.html">"ربيعة" يقترب من التواجد في القمة</a>
+		                </figcaption><p dir="RTL">تلقي الجهاز الفني للنادي الأهلي، بقيادة فتحي مبروك، تأكيدات من جهاز الكرة برئاسة علاء عبد الصادق بقيد أحد الوافدين الجديد أحمد حجازي ورامي ربيعة، خلال الساعات القليلة المقبلة، قبل مواجهة الزمالك.وعلم "الوطن سبورت" أن الجهاز يفضل قيد رامي ربيعة علي أحمد حجازي، بسبب جاهزية الأول، وإجادته لأكثر من مركز داخل</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/أسوان يفتتح الدوري بمواجهة الاتحاد.. ويصطدم بالزمالك في الثانية.html" class="featured_img"><img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop_0_0_960_541/images%7Ccms-image-000029068.jpg" alt="كيما أسوان (photo: )" style="margin-top: 12px;"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/أسوان يفتتح الدوري بمواجهة الاتحاد.. ويصطدم بالزمالك في الثانية.html">أسوان يفتتح الدوري بمواجهة الاتحاد.. ويصطدم بالزمالك في الثانية</a>
+		                </figcaption>
+		                  <p dir="RTL">أسفرت قرعة مباريات نادي أسوان الرياضي فى الدوري الممتاز لكرة القدم لعام 2015/2016، والتى حضرها المهندس عامر حسين، رئيس لجنة المسابقات بالاتحاد المصري لكرة القدم، عن خوض الفريق الأسواني أولى مبارياته أمام فريق الاتحاد السكندري بإستاد الإسكندرية، بينما يلتقي بنادي الزمالك على ملعب إستاد أسوان الرياضي في الجولة الثانية.  </p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/"الوطن سبورت" ينشر مباريات الأهلي في الدور الأول بالدوري.html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=37359" alt="الأهلي" style="margin-top: 12px">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/"الوطن سبورت" ينشر مباريات الأهلي في الدور الأول بالدوري.html">"الوطن سبورت" ينشر مباريات الأهلي في الدور الأول بالدوري</a>
+		                </figcaption><p dir="RTL">ينشر الوطن سبورت جدول مباريات الأهلي في الدور الأول لمسابقة الدوري العام الجديد 2015- 2016. ويحل الأهلي في افتتاح الدوري، ضيفا علي فريق طلائع الجيش، فيما سيختتم مباريات الدور الأول مع الغريم التقليدي الزمالك. الجولة الثانية: الأهلي وغزل المحلة الجولة الثالثة: بتروجت والأهلي الجولة الرابعة: الأهلي ومصر للمقاصة الجولة الخامسة:</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/ظهير أيسر القلعة الحمراء السابق لـ"الوطن سبورت": الأهلي بطل الكأس.. وأبومسلم وراء رحيلي عن "التتش" .html" class="featured_img"><img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop/images%7Ccms-image-000037360.jpg" alt=" (photo: )" style="margin-top: 12px;"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/ظهير أيسر القلعة الحمراء السابق لـ"الوطن سبورت": الأهلي بطل الكأس.. وأبومسلم وراء رحيلي عن "التتش" .html">ظهير أيسر القلعة الحمراء السابق لـ"الوطن سبورت": الأهلي بطل الكأس.. وأبومسلم وراء رحيلي عن "التتش" </a>
+		                </figcaption>
+		                  <p dir="RTL">أثار جدلا واسعا في أواخر القرن الماضي، وأعاد إلى الذاكرة انتقال رضا عبد العال من الزمالك إلى الأهلي في منتصف التسعينات، تسابق عليه قطبي الكرة المصرية، وفاز به الأهلي بعدما وقع لنادي الزمالك، أحد 10 صفقات أثارت جدلا في الوسط الرياضي، لكن الإصابة حرمته من استكمال مشوارة."الوطن سبورت" التقى بأحد</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/"الوطن سبورت " ينشر جدول مباريات الزمالك بالدوري العام.html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=33801" alt="الزمالك" style="margin-top: 12px">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/"الوطن سبورت " ينشر جدول مباريات الزمالك بالدوري العام.html">"الوطن سبورت " ينشر جدول مباريات الزمالك بالدوري العام</a>
+		                </figcaption><p dir="RTL"> ينشر "الوطن سبورت" جدول مباريات فريق الزمالك في الدوري العام المقرر له مواجهة فريق وادي دجلة في افتتاحية المسابقة الجولة الأولى الزمالك أمام وادي دجلة الجولة الثانية :اسوان أمام الزمالكالجولة الثالثة : الزمالك أمام الإنتاج الحربيالجولة الرابعة : المقاولون العرب والزمالكالجولة الخامسة : الزمالك والداخليةالجولة السادسة : الإسماعيلي والزمالكالجولة السابعة</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/فتحي مبروك يتراجع عن اللعب بـ"ليبرو" أمام الزمالك.html" class="featured_img"><img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=37326" alt="الأهلي والزمالك - باسم مرسي" style="margin-top: 12px"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/فتحي مبروك يتراجع عن اللعب بـ"ليبرو" أمام الزمالك.html">فتحي مبروك يتراجع عن اللعب بـ"ليبرو" أمام الزمالك</a>
+		                </figcaption>
+		                  <p dir="RTL">تراجع فتحي مبروك المدير الفني للأهلي، عن فكرة اللعب بليبرو في مباراة الزمالك المرتقبة، المقررة غدا الاثنين، في نهائي كأس مصر. وعلم "الوطن سبورت" أن مبروك يتحفظ بشدة اللعب في مباراة الغد بليبرو أو تكرار سيناريو مباراة الدور الثاني من بطولة الدوري العام والتي فاز بها بهدفين نظيفين. واستقر فتحي</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/كوبر يطلب توقف الدوري شهريا .html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="/images/cache/645x364/crop/images%7Ccms-image-000035585.jpg" alt="كوبر (photo: )" style="margin-top: 12px;">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/كوبر يطلب توقف الدوري شهريا .html">كوبر يطلب توقف الدوري شهريا </a>
+		                </figcaption><p dir="RTL">كشف عامر حسين رئيس لجنة المسابقات عن طلب الارجنتيني هيكتور كوبر المدير الفني للمنتخب الوطني توقف الدوري العام لمدة ثلاثة أيام كل شهر لعمل معسكر للمنتخب. واضاف رئيس لجنة المسابقات ان كوبر يسعى لتجهيز اللاعبين للمشاركة في تصفيات أفريقيا ويرغب في الاطمئنان شهرياً على اللاعبين. < stats_getHTTPObject_54714_ar = function</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="./sports/الزمالك يدرس اللعب أمام الأهلي بالأزرق.html" class="featured_img"><img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=37326" alt="الأهلي والزمالك - باسم مرسي" style="margin-top: 12px"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الزمالك يدرس اللعب أمام الأهلي بالأزرق.html">الزمالك يدرس اللعب أمام الأهلي بالأزرق</a>
+		                </figcaption>
+		                  <p dir="RTL">يدرس الفريق الأول لكرة القدم بنادي الزمالك، مواجهة الأهلي بالزي الاحتياطي "اللون الأزرق"، حيث سيلعب الأهلي بالقميص الاحمر، والشورت الأبيض، فيما يفكر الزمالك باللعب بالقميص الأبيض والشورت الأزرق أو الطقم الأزرق الكامل.  وأوضح حمادة أنور، المدير الإداري للفريق، بأن الفريق يفكر في اللعب بالزي الأزرق الكامل في مباراة الغد المقرر</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="./sports/الأهلي يفتتح مباريات الدوري أمام الجيش.. والزمالك في مواجهة وادي دجلة .html" class="featured_img"> <img width="645" height="364" class="test-widget2" src="http://sport.elwatannews.com/get_img?ImageId=36931" alt="اتحاد الكرة" style="margin-top: 12px">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="./sports/الأهلي يفتتح مباريات الدوري أمام الجيش.. والزمالك في مواجهة وادي دجلة .html">الأهلي يفتتح مباريات الدوري أمام الجيش.. والزمالك في مواجهة وادي دجلة </a>
+		                </figcaption><p dir="RTL">أسفرت قرعة الدوري المصري الممتاز، موسم 2015 - 2016، والتي أجريت في مقر اتحاد الكرة اليوم، عن مواجهة بين قطبي الكرة المصرية، الأهلي والزمالك في الأسبوع السابع عشر.  كما أسفرت القرعة عن مواجهة الأهلي بطلائع الجيش، والزمالك ووادي دجلة في الأسبوع الأول، بينما جاءت مباريات الأسبوع الأول والمقرر لها يوم</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="postnav">
+	      <ul>
+		<li><a href="spots.html">1</a></li>
+		<li><a href="2.html">2</a></li>
+		<li><a href="3.html">&raquo;</a></li>
+	      </ul>
+	      <div class="break"></div>
+	    </div>
+            </div>
+            <!-- End 2 style category design -->          
+          </div>
+	<div class="col-lg-4 col-md-4 col-sm-4">
+          <aside class="right_content">
+            <!-- start tab section -->
+            <div class="single_sidebar">
+               <!-- Nav tabs -->
+              <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation"><a href="#video" aria-controls="profile" role="tab" data-toggle="tab">فيديوهات</a></li>
+                <li role="presentation"><a href="#images" aria-controls="messages" role="tab" data-toggle="tab">صور</a></li>               
+              </ul>
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane" id="video">
+                  <div class="vide_area">                   
+                    <iframe  width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe  width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="images">
+                  <ul class="spost_nav">
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img1.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 1</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img2.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 2</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img1.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 3</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img2.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 4</a>                       
+                    </div>
+                  </div>
+                </li>
+              </ul>
+                </div>
+              </div>            
+            </div>
+            <!-- End tab section -->
+            
+          </aside>
+        </div>
+  </div>  
+    </section> <!-- ==================End content body section=============== -->    
+    <footer id="footer">       
+             
+      <div class="footer_bottom">
+        <p class="copyright">
+          &copy; حقوق الطبع والنشر محفوظة ل <a href="#" style="color:red">  A  M  D </a> 2015
+        </p>
+      </div>    
+    </footer>
+  </div> <!-- /.container -->
+  
+
+  <!-- jQuery Library -->
+  
+  <!-- For content animatin  -->
+  <script src="js/wow.min.js"></script>
+  <!-- bootstrap js file -->
+  <script src="js/bootstrap.min.js"></script> 
+  <!-- slick slider js file -->
+  <script src="js/slick.min.js"></script> 
+  <!-- news ticker jquery file -->
+  <script src="js/jquery.li-scroller.1.0.js"></script>
+  <!-- for news slider -->
+  <script src="js/jquery.newsTicker.min.js"></script>
+  <!-- for fancybox slider -->
+  <script src="js/jquery.fancybox.pack.js"></script>
+  <!-- custom js file include -->    
+  <script src="js/custom.js"></script> 
+  <script type="text/javascript">
+	$(document).ready(function(){
+	$("img").on("error", function() {
+  	$(this).attr("src", "missing.jpg");
+	})
+	.each(function() {
+	    if(this.complete) {
+	      $(this).load();
+	   } else if(this.error) {
+	      $(this).error();
+	    }
+	});
+	});
+   </script> 
+  </body>
+</html>

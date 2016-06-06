@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>AMD News</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- for fontawesome icon css file -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- for content animate css file -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- google fonts  -->
+    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Varela" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">   
+    <!-- for news ticker css file -->
+     <link href="css/li-scroller.css" rel="stylesheet">
+     <!-- slick slider css file -->
+    <link href="css/slick.css" rel="stylesheet">
+    <!-- for fancybox slider -->
+     <link href="css/jquery.fancybox.css" rel="stylesheet">    
+    <!-- website theme file -->
+     <link href="css/theme.css" rel="stylesheet">
+    <!-- main site css file -->    
+    <link href="style.css" rel="stylesheet">
+ 
+  </head>
+<body>
+  
+  <div class="container">
+    <!-- start header section -->
+    <header id="header">    
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="header_bottom">
+            <div class="logo_area">
+               <a href="#" class="logo">
+                News <span>Crawler</span>
+              </a> 
+            </div>
+            <div class="add_banner">
+              <a href="#"><img src="img/addbanner_728x90_V1.jpg" alt="img"></a>
+            </div>
+          </div>
+        </div>
+      </div>  
+    </header><!-- End header section --> 
+    <!-- start nav section --> 
+    <section id="navArea">
+      <!-- Start navbar -->
+      <nav class="navbar navbar-inverse" role="navigation">      
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>          
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav main_nav">
+            <li class="active"><a href="home.html"><span class="fa fa-home desktop-home"></span><span class="mobile-show">Home</span></a></li>
+            <li><a href="#">سياسة</a></li>            
+            <li><a href="#">رياضة</a></li>
+            <li><a href="#">فن و مشاهير</a></li> 
+            <li><a href="about.html">من نحن</a></li>
+            <li><a href="contact.html">اتصل بنا</a></li>
+          </ul>           
+        </div><!--/.nav-collapse -->      
+      </nav>
+    </section><!-- End nav section -->
+	
+<section id="newsSection">
+	      <div class="row">
+		<div class="col-lg-12 col-md-12">
+		   <!-- start news sticker -->
+		  <div class="latest_newsarea">      
+		    <span>اخر اﻻخبار</span>
+		    <ul id="ticker01" class="news_sticker">
+<li><a href="#"><img src="img/news_thumbnail3.jpg" alt="">اليد يواجه أنجولا فى نهائى الألعاب الأفريقية</a></li> 
+<li><a href="#"><img src="img/news_thumbnail3.jpg" alt="">سيف زاهر يطالب جنش بالاعتذار للطفل حامل الكرات</a></li> 
+<li><a href="#"><img src="img/news_thumbnail3.jpg" alt="">ثلاثى الترايثلون يمثلون مصر فى نهائى بطولة العالم اليوم</a></li> 
+<li><a href="#"><img src="img/news_thumbnail3.jpg" alt="">اليوم.. محمد عبد الكريم يلحق ببعثة المقاولون فى النمسا</a></li> 
+<li><a href="#"><img src="img/news_thumbnail3.jpg" alt="">رحاب حمدى تخفق فى نهائى بطولة العالم لـ"الترايثلون"</a></li> 
+</ul>
+		    <div class="social_area">
+		      <ul class="social_nav">
+		        <li class="facebook"><a href="#"></a></li>
+		        <li class="twitter"><a href="#"></a></li>
+		        <li class="googleplus"><a href="#"></a></li>
+		        <li class="youtube"><a href="#"></a></li>
+		        <li class="mail"><a href="mailto:info@smartnews.com"></a></li>
+		      </ul>
+		    </div>      
+		  </div><!-- End news sticker -->
+		</div>
+	      </div>
+	    </section>
+	
+	    <!-- start slider section -->
+	    <section id="sliderSection">
+	      <div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8">
+		  <div class="slick_slider">
+<div class="single_iteam">
+              <a href="single_page.html"><img alt="رحاب حمدى" src="http://img.youm7.com/images/NewsPics/large/9201514144618710.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="single_page.html">رحاب حمدى تخفق فى نهائى بطولة العالم لـ"الترايثلون"</a></h2>
+                <p>أخفقت رحاب حمدى بطلة المنتخب الوطنى للثلاثى الحديث "الترايثلون" فى منافسات نهائى بطولة العالم المقامة بمدينة شيكاغو الأمريكية، فى الفترة من 15 إلى 20 سبتمبر الجارى.حلت رحاب حمدى فى المركز الـ55 فى منافسات الترايثلون بنهائى بطولة العالم تحت 19 سنة،</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="single_page.html"><img alt="مرتضى منصور رئيس الزمالك" src="http://img.youm7.com/images/NewsPics/large/820153014334334.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="single_page.html">مرتضى منصور: طظ فى هيبة فيريرا مش هيكون أهم من وزير الزراعة</a></h2>
+                <p>أشار مرتضى منصور رئيس الزمالك إلى هيبة البرتغالى فيريرا المدير الفنى للأبيض، بأنها لن تكون أهم من هيبة وزير الزراعة الذى تم إلقاء القبض عليه على هامش قضايا الفساد فى وزارته، قائلاً:"طظ فيريرا.. دا وزير الزراعة أهم واتقبض عليه عادى</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="single_page.html"><img alt="الخماسى الحديث" src="http://img.youm7.com/images/NewsPics/large/3201519213829.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="single_page.html">الخماسى الحديث يشارك بـ11 لاعبة فى اليوم الثانى من بطولة العالم</a></h2>
+                <p>يشارك، اليوم السبت، منتخب الخماسى الحديث بمنافسات الترايثلون ببطولة العالم للخماسى الحديث المقامة حاليا بجورجيا بـ11 لاعبة.يمثل منتخب الخماسى الحديث، اليوم، بمنافسات الترايثلون ببطولة العالم "ندى عبد الحفيظ، وسلمى عبد المقصود، وسندس أبو بكر، ومريم أمير، وزينة أمير، ملك إسماعيل،</p>
+              </div>
+            </div>
+<div class="single_iteam">
+              <a href="single_page.html"><img alt="دينا مشرف " src="http://img.youm7.com/images/NewsPics/large/s7201229114120.jpg"></a>
+              <div class="slider_article">
+                <h2><a class="slider_tittle" href="single_page.html">رباعى تنس الطاولة يتأهل للأولمبياد</a></h2>
+                <p>تأهل رباعى تنس الطاولة عمر وخالد عصر ودينا مشرف ونادين الدولتلى إلى دورة الألعاب الأولمبية بريودى جانيرو2016، بعد فوزهم على منتخب نيجيريا بدورة الألعاب الأفريقية.</p>
+              </div>
+            </div>
+</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			  <div class="latest_post">
+			    <h2><span>اهم اﻻخبار</span></h2>
+			    <div class="latest_post_container">
+			      <div id="prev-button"><i class="fa fa-chevron-up"></i></div>
+			      <ul class="latest_postnav">
+<li>
+		
+<div class="media">
+                    <a href="single_page.html" class="media-left"><img alt="دينا مشرف " src="http://img.youm7.com/images/NewsPics/large/s7201229114120.jpg"></a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title">رباعى تنس الطاولة يتأهل للأولمبياد</a>                        
+                    </div>
+                  </div>
+                </li>
+<div class="media">
+                    <a href="single_page.html" class="media-left"><img alt="توقيع حكيم للزرقا" src="http://img.youm7.com/images/NewsPics/large/920151911157440.jpg"></a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title">الزرقا يضم صانع ألعاب بلدية المحلة</a>                        
+                    </div>
+                  </div>
+                </li>
+<div class="media">
+                    <a href="single_page.html" class="media-left"><img alt="منتخب فتيات الكرة الطائرة" src="http://img.youm7.com/images/NewsPics/large/920141220739.jpg"></a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title">خسارة فتيات الطائرة أمام كوبا فى بطولة العالم</a>                        
+                    </div>
+                  </div>
+                </li>
+<div class="media">
+                    <a href="single_page.html" class="media-left"><img alt="حسين السيد" src="http://img.youm7.com/images/NewsPics/large/4201513155728278.jpg"></a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title">مارسيلو: إشارتى بعد هدف بتروجت لمن شككوا فى قدراتى</a>                        
+                    </div>
+                  </div>
+                </li>
+<div class="media">
+                    <a href="single_page.html" class="media-left"><img alt="محمود عبد العزيز" src="http://img.youm7.com/images/NewsPics/large/7201523192017901.jpg"></a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title">"ميدو" يضع برنامجا تأهيليا مكثفا لـ"عبد العزيز والوحش"</a>                        
+                    </div>
+                  </div>
+                </li>
+</ul>
+		     <div id="next-button"><i class="fa  fa-chevron-down"></i></div>
+		    </div>
+		  </div>
+		</div>
+	      </div>
+	    </section><!-- End slider section -->
+		<!-- ==================start content body section=============== -->
+	<section id="contentSection">
+	      <div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8">
+		  <div class="left_content">
+		    <div class="single_post_content">
+		  <h2><span>اﻻخبار</span></h2>
+		</div>
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="محمود عبد العزيز" src="http://img.youm7.com/images/NewsPics/large/7201523192017901.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">"ميدو" يضع برنامجا تأهيليا مكثفا لـ"عبد العزيز والوحش"</a>
+		                </figcaption><p dir="RTL">اتفق أحمد حسام "ميدو"، المدير الفنى للإسماعيلى، مع طارق الباروكى، مدرب الأحمال، على وضع برنامج تأهيل مكثف للثنائى محمود عبد العزيز وعمر الوحش لمدة أسبوعين. وكان عمر الوحش قد تعرض لإصابة فى عظمة الشظية بالقدم خلال مباراة فريقه أمام الاتحاد السكندرى فى الدورى العام الموسم الماضى، فيما تعرض "زيزو" للإصابة</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="مرتضى منصور" src="http://img.youm7.com/images/NewsPics/large/82015291381569.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">الزمالك يصرف مستحقات اللاعبين قبل العيد</a>
+		                </figcaption>
+		                  <p dir="RTL">وعد مجلس إدارة نادى الزمالك برئاسة مرتضى منصور، اللاعبين بصرف مقدمات عقود الموسم الجديد قبل عيد الأضحى المبارك الذى سيوافق يوم الخميس المقبل، وكذلك قبل السفر إلى تونس لملاقاة النجم الساحلى فى ذهاب الدور قبل النهائى لبطولة الكونفدرالية الإفريقية والمقرر لها يوم 27 سبتمبر الجارى.وأكد المجلس الأبيض للاعبين انتعاش خزينة</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="فاروق جعفر" src="http://img.youm7.com/images/NewsPics/large/S420141013383.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">فاروق جعفر عن بطل قمة الكأس: "ملهاش ميزان"</a>
+		                </figcaption><p dir="RTL">رفض فاروق جعفر، المدير الفنى السابق لاتحاد الكرة، الإدلاء بأى توقعات نحو الفائز بالقمة القادمة بين الأهلى والزمالك، قائلا: "دى مباراة كئوس ملهاش ميزان". ويلتقى الأهلى مع الزمالك يوم الاثنين المقبل على استاد بتروسبورت فى إطار نهائى كأس مصر. أوضح المدير الفنى السابق لاتحاد الكرة فى تصريحات تليفزيونية لقناة النهار</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="رفع الأثقال - صورة أرشيفية" src="http://img.youm7.com/images/NewsPics/large/s9201263624.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">أثقال البارالمبية يضيف ذهبيتين بالألعاب الأفريقية</a>
+		                </figcaption>
+		                  <p dir="RTL">حقق ثنائى منتخب الأثقال البارالمبى إياد إبراهيم ومحمد على ذهبيتين جديدتين بدورة الألعاب الأفريقية بالكونغو برازافيل وتنتهى غدا السبت.كانت اللاعبة جيهان حسن قد أحرزت اليوم الميدالية الفضية فى منافسات البارلمبيك فى وزن 79 كجم، حيث رفعت ثقلا وزنه 120 كجم، كما أحرزت زميلتها راندا تاج فضية دمج وزنى تحت 86</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="تدريبات بتروجت" src="http://img.youm7.com/images/NewsPics/large/92015414717524.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">الإصابة تمنع كريم طارق من استكمال مران بتروجت</a>
+		                </figcaption><p dir="RTL">تعرض كريم طارق مهاجم بتروجت، للإصابة فى كعب قدمه فى بداية أول مران للفريق بعد الخروج من كأس مصر عقب الهزيمة من الأهلى، بثلاثة أهداف مقابل هدف، فى دور نصف النهائى من منافسات البطولة.فضل الجهاز الفنى بقيادة أحمد حسن، عدم استكمال اللاعب للتدريبات، حتى لا تتفاقم إصابته خاصة أن الجهاز</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="نجوم الرياضة فى مسرح مصر" src="http://img.youm7.com/images/NewsPics/large/920151902859341.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">بالصور.. لاعبو الأهلى والزمالك فى "مسرح مصر" قبل نهائى الكأس</a>
+		                </figcaption>
+		                  <p dir="RTL">حرص عدد من لاعبى الأهلى والزمالك، على حضور العرض المسرحى لـ"مسرح مصر"، من أجل الخروج من حالة التوتر، قبل لقاء القمة الذى سيجمعهما الاثنين المقبل، على استاد بترو سبورت، فى نهائى كأس مصر.وحضر العرض المسرحى، من لاعبى الأهلى، عماد متعب، وزوجته ملكة جمال مصر السابقة يارا نعوم، وحسام عاشور، ووليد</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="منتخب التايكوندو" src="http://img.youm7.com/images/NewsPics/large/920151902111295.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">التايكوندو يحرز 5 ميداليات بالألعاب الإفريقية</a>
+		                </figcaption><p dir="RTL">حقق لاعبو منتخب التايكوندو خمس ميداليات متنوعة، أمس، بدورة الألعاب الإفريقية بالكونغو، حيث أحرز يوسف السيد ذهبية، و3 فضيات لكل من روانا لرفاعى وميسون طلبة وسيف عيسى، فيما حققت آية الروبى الميدالية البرونزية.</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="حسام غالى" src="http://img.youm7.com/images/NewsPics/large/5201524215116703.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">جلسات مكثفة بين غالى ولاعبى الأهلى لتحفيزهم قبل موقعة نهائى الكأس</a>
+		                </figcaption>
+		                  <p dir="RTL">يحرص حسام غالى لاعب وسط الأهلى على تحفيز زملائه قبل موقعة الزمالك الصعبة يوم الاثنين المقبل فى نهائى كأس مصر.وقرر غالى تكثيف جلساته مع اللاعبين لاسيما الصغار لشحن هممهم لهذه المباراة المصيرية، خاصة أنه لن يقوم بواجباته فى الملعب كما هو معتاد خلال اللقاء بسبب غيابه للإصابة فى العضلة الخلفية.وطلب</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="فيس بوك" src="http://img.youm7.com/images/NewsPics/large/9201518184255150.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">بالصور.. رواد فيس بوك يسخرون من "سحر" مرتضى منصور</a>
+		                </figcaption><p dir="RTL">سخر رواد موقع التواصل الاجتماعى "فيس بوك" من تصريحات مرتضى منصور رئيس نادى الزمالك الذى وجه اتهامات إلى مسئولى الأهلى باستخدام السحر والشعوذة للفوز على الفريق الأبيض فى لقاءات القمة.ويستعد الأهلى لمواجهة الزمالك فى نهائى كأس مصر يوم الاثنين المقبل على استاد بتروسبورت.وجدد رئيس الزمالك تصريحاته بشأن السحر والشعوذة بالأمس</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="محمود الشامى" src="http://img.youm7.com/images/NewsPics/large/s4200929144951.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">محمود الشامى: الدورى الجديد سيُذاع على جميع الفضائيات</a>
+		                </figcaption>
+		                  <p dir="RTL">أكد محمود الشامى، عضو مجلس إدارة اتحاد الكرة، والقائم بأعمال رئيس الجبلاية مؤقتا، أن مباريات الدورى المقبل 2015/2016، ستذاع على جميع الفضائيات التى ستطلب شرائه، موضحاً أن مبدأ الاحتكار لن يظهر فى بيع مباريات الدورى.أضاف الشامى، الذى حل ضيفا على الإعلامى إسلام صادق، فى برنامجه "بالورقة والقلم" أنه سيتم تطبيق</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="المعتصم سالم مدافع بتروجت" src="http://img.youm7.com/images/NewsPics/large/s320104154057.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">المعتصم سالم ينتظر "عيدية" من بتروجت</a>
+		                </figcaption><p dir="RTL">ينتظر المعتصم سالم مدافع بتروجت الجديد، صرف مقدم عقده قبل عيد الأضحى، كونه اللاعب الوحيد الذى لم يحصل على مقدم تعاقده بعد صرفه لجميع اللاعبين فى معسكر 6 أكتوبر قبل لقاء الأهلى بالكأس، الذى انتهى بخسارة الفريق البترولى بثلاثة أهداف مقابل هدف.حصل المعتصم سالم على وعد من مسئولى بتروجت، بصرف</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="منتخب مصر" src="http://img.youm7.com/images/NewsPics/large/7201524185046921.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">الجبلاية تُطالب السنغال بـ 20 ألف دولار "مصروف جيب" للاعبى المنتخب</a>
+		                </figcaption>
+		                  <p dir="RTL">طلب اتحاد الكرة من الشركة الراعية لمنتخب السنغال، تحمل مبلغ 20 ألف دولار عبارة عن مصروف الجيب للاعبى المنتخب الوطنى الأول، فى دبى، التى ستستضيف مباراة مصر والسنغال الودية يوم 8 أكتوبر المقبل.يذكر أن السنغال ستتحمل تذاكر السفر والإقامة والتنقلات للمنتخب الوطنى فى دبى.أخبار متعلقة..- الجبلاية تدعو كبير الياوران والوزير</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="فريق الزمالك" src="http://img.youm7.com/images/NewsPics/large/7201526222534265.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">الزمالك يطلب زيادة جماهيره فى القمة إلى 50 فرداً والجبلاية ترفض</a>
+		                </figcaption><p dir="RTL">طلب مسئولو نادى الزمالك، من نظرائهم فى اتحاد الكرة زيادة عدد الحضور المُخصصين له لحضور مباراة القمة أمام الأهلى، يوم الاثنين المقبل، فى نهائى كأس مصر، إلى 50 فرداً بدلاً من 25.ورفض اتحاد الكرة، على طلب الزمالك بزيادة عدد الدخول لوجود بعض الاشتراطات بتحديد 25 فرداً فقط من كل نادى</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="محاضرة لاعبى المحلة" src="http://img.youm7.com/images/NewsPics/large/9201518224813148.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">بالصور.. جنيدى يعالج أخطاء لاعبى المحلة فى معسكر الإسكندرية</a>
+		                </figcaption>
+		                  <p dir="RTL">عقد محمد جنيدى المدير الفنى لفريق غزل المحلة محاضرة فنية للاعبين وذلك لعلاج الأخطاء فى المباريات الثلاثة التى أقيمت بمعسكر الفلاحين بالأكاديمية البحرية بالإسكندرية والذى اختتمه الفريق مساء اليوم بالفوز على مصر للتأمين بثلاثة أهداف مقابل لا شىء.طالب جنيدى لاعبى المحلة بضرورة التمرير السريع خاصة للاعبى وسط الملعب الى جانب</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="جانب من اللقاء" src="http://img.youm7.com/images/NewsPics/large/920151822485042.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">اليد يسحق الكونغو ويتأهل لنهائى الألعاب الإفريقية</a>
+		                </figcaption><p dir="RTL">تأهل المنتخب الوطنى الأول لكرة اليد إلى المباراة النهائية لبطولة دورة الألعاب الإفريقية الحادية عشرة والمقامة حاليا فى الكونغو برازفيل بعد سحقه لمنتخب البلد المضيف بنتيجة 35-15 فى نصف النهائى.وقدم نجوم الفراعنة مباراة كبيرة للغاية وسيطر اللاعبون على مجريات الأمور منذ اللحظة الأولى ووصل الفارق فى كثير من الأحيان إلى</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="محمود علام" src="http://img.youm7.com/images/NewsPics/large/s120122218246.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">الأهلى يخاطب مديرية الشباب والرياضة للتصديق على إعلان المدير التنفيذى</a>
+		                </figcaption>
+		                  <p dir="RTL">أرسل النادى الأهلى أمس "الخميس"،خطابا إلى مديرية الشباب والرياضة بالقاهرة، طالبها فيه بسرعة التصديق على الإعلان الخاص بمنصب المدير التنفيذى والذى أعده النادى الأحمر وسيتم نشره فى الصحف خلال الأيام المقبلة.وكانت مدير الشباب والرياضة قد خاطبت الأهلى فى الفترة الأخيرة حول ضرورة نشر إعلان فى الصحف المصرية، لاختيار مدير تنفيذى</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<!-- start 2 style category design -->
+		    <div class="fashion_technology_area">
+		      <div class="fashion">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav wow fadeInDown">
+		            <li>
+		              <figure class="bsbig_fig">
+		                <a href="single_page.html" class="featured_img"> <img alt="منتخب السلة" src="http://img.youm7.com/images/NewsPics/large/9201518222412383.jpg">
+				<span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">السلة يحرز فضية الألعاب الافريقية</a>
+		                </figcaption><p dir="RTL">أحرز منتخب السلة رجال بقيادة مدربه أحمد مرعى فضية دورة الألعاب الأفريقية المقامه بالكونغو وتنتهى غدا السبت، بعد خسارته أمام نظيره الأنجولى بنتيجة 83/73، فى المباراة النهائية للدورة.وتتصدر مصر الترتيب العام للبطولة برصيد 197 ميدالية متنوعة بواقع 77 ذهبية و59 فضية و61 برونزية.</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+<div class="technology">
+		        <div class="single_post_content">
+		          <ul class="business_catgnav">
+		            <li>
+		              <figure class="bsbig_fig wow fadeInDown">
+		                <a href="single_page.html" class="featured_img"><img alt="منتخب السنغال" src="http://img.youm7.com/images/NewsPics/large/9201518213620321.jpg"><span class="overlay"></span>
+		                </a>
+		                <figcaption>
+		                  <a href="single_page.html">السنغال تفوز بدورة الألعاب الإفريقية لكرة القدم</a>
+		                </figcaption>
+		                  <p dir="RTL">حقق منتخب السنغال لكرة القدم ذهبية دورة الألعاب الافريقية المقامة بالكونغو بعد تغلبه على نظيره البوركينى بنتيجة 1/0 فى المباراة النهائية.جدير بالذكر أن الكونغو برازافيل احتضنت منافسات الألعاب الافريقية فى الفترة من 3 سبتمبر الحالى وتنتهى غدا السبت، وتصدر الفراعنة الترتيب العام للبطولة.</p>
+		              </figure>
+		            </li>
+		          </ul>
+		        </div>
+		      </div>
+		    </div>
+		    
+<div class="postnav">
+	      <ul>
+		<li><a href="#">1</a></li>
+		<li><a href="#">2</a></li>
+		<li><a href="#">&raquo;</a></li>
+	      </ul>
+	      <div class="break"></div>
+	    </div>
+            </div>
+            <!-- End 2 style category design -->          
+          </div>
+        
+<div class="col-lg-4 col-md-4 col-sm-4">
+          <aside class="right_content">
+            <!-- start tab section -->
+            <div class="single_sidebar">
+               <!-- Nav tabs -->
+              <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation"><a href="#video" aria-controls="profile" role="tab" data-toggle="tab">فيديوهات</a></li>
+                <li role="presentation"><a href="#images" aria-controls="messages" role="tab" data-toggle="tab">صور</a></li>               
+              </ul>
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane" id="video">
+                  <div class="vide_area">                   
+                    <iframe  width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe  width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+		  <div class="vide_area">                   
+                    <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+		 <iframe style="margin-left:5%" width="95%" height="200" src="http://www.youtube.com/embed/h5QWbURNEpA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="images">
+                  <ul class="spost_nav">
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img1.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 1</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img2.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 2</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img1.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 3</a>                        
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="media wow fadeInDown">
+                    <a href="single_page.html" class="media-left">
+                      <img alt="img" src="img/post_img2.jpg">
+                    </a>
+                    <div class="media-body">
+                      <a href="single_page.html" class="catg_title"> صورة رقم 4</a>                       
+                    </div>
+                  </div>
+                </li>
+              </ul>
+                </div>
+              </div>            
+            </div>
+            <!-- End tab section -->
+            
+          </aside>
+        </div>
+</div>  
+    </section> <!-- ==================End content body section=============== -->    
+    <footer id="footer">       
+             
+      <div class="footer_bottom">
+        <p class="copyright">
+          &copy; حقوق الطبع والنشر محفوظة ل <a href="#" style="color:red">  A  M  D </a> 2015
+        </p>
+      </div>    
+    </footer>
+  </div> <!-- /.container -->
+  
+
+  <!-- jQuery Library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <!-- For content animatin  -->
+  <script src="js/wow.min.js"></script>
+  <!-- bootstrap js file -->
+  <script src="js/bootstrap.min.js"></script> 
+  <!-- slick slider js file -->
+  <script src="js/slick.min.js"></script> 
+  <!-- news ticker jquery file -->
+  <script src="js/jquery.li-scroller.1.0.js"></script>
+  <!-- for news slider -->
+  <script src="js/jquery.newsTicker.min.js"></script>
+  <!-- for fancybox slider -->
+  <script src="js/jquery.fancybox.pack.js"></script>
+  <!-- custom js file include -->    
+  <script src="js/custom.js"></script> 
+      
+  </body>
+</html>
