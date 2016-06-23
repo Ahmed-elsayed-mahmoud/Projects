@@ -1,0 +1,6 @@
+first line => equation
+second line => variable
+       
+Ex: 
+exp(-x)-x
+x
