@@ -1,0 +1,11 @@
+.23456789012345678
+        start    0
+hamda   ldx      #5
+kimos   lda  @456
+     ld   b  #25
+
+    compr  a,x
+        lda #hamda
+        lda  @kimos
+        lda 1000
+        end

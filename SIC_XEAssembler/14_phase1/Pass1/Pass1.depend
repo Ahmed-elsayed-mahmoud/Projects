@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1462403051 source:/home/ahmed/Desktop/Complete Search/Pass1/Assembler.cpp
+	"Pass1.h"
+	"Pass1ListFile.h"
+	"Pass2.h"
+
+1462030558 /home/ahmed/Desktop/Complete Search/Pass1/Pass1.h
+	<bits/stdc++.h>
+	<vector>
+	<iostream>
+	"Instruction.h"
+
+1461875850 /home/ahmed/Desktop/Complete Search/Pass1/Instruction.h
+	<string>
+
+1461868878 /home/ahmed/Desktop/Complete Search/Pass1/Pass1ListFile.h
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	"Instruction.h"
+
+1462274523 /home/ahmed/Desktop/Complete Search/Pass1/Pass2.h
+	"Instruction.h"
+	"bits/stdc++.h"
+	"Check.h"
+
+1461853016 /home/ahmed/Desktop/Complete Search/Pass1/Check.h
+	<regex>
+	"ReadOpCode.h"
+	<bits/stdc++.h>
+
+1461543128 /home/ahmed/Desktop/Complete Search/Pass1/ReadOpCode.h
+	<string>
+	<map>
+	<bits/stdc++.h>
+
+1461984114 source:/home/ahmed/Desktop/Complete Search/Pass1/Check.cpp
+	"Check.h"
+	<regex>
+	<bits/c++io.h>
+
+1461878628 source:/home/ahmed/Desktop/Complete Search/Pass1/Instruction.cpp
+	"Instruction.h"
+
+1462402666 source:/home/ahmed/Desktop/Complete Search/Pass1/Parser.cpp
+	"Parser.h"
+	<regex>
+	<bits/stdc++.h>
+
+1462023662 /home/ahmed/Desktop/Complete Search/Pass1/Parser.h
+	<regex>
+	<bits/stdc++.h>
+	<vector>
+	<queue>
+	<iostream>
+	<string.h>
+	<bits/c++io.h>
+	"Instruction.h"
+	"Check.h"
+
+1461902112 source:/home/ahmed/Desktop/Complete Search/Pass1/Pass1ListFile.cpp
+	"Pass1ListFile.h"
+	<fstream>
+	"Pass1.h"
+	"Instruction.h"
+	<bits/stdc++.h>
+
+1462313742 source:/home/ahmed/Desktop/Complete Search/Pass1/Pass2.cpp
+	"Pass2.h"
+	"Instruction.h"
+	"Check.h"
+	<bits/stdc++.h>
+	<regex>
+	<stdlib.h>
+
+1462403391 source:/home/ahmed/Desktop/Complete Search/Pass1/ReadOpCode.cpp
+	"ReadOpCode.h"
+	<bits/c++io.h>
+
+1462132200 source:/home/ahmed/Desktop/Complete Search/Pass1/Pass1.cpp
+	"Pass1.h"
+	<iostream>
+	"Parser.h"
+	<string.h>
+	"Pass1ListFile.h"
+
