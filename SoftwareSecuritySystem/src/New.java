@@ -1,5 +1,3 @@
-// Source File Name:   New.java
-
 import java.io.*;
 
 public class New

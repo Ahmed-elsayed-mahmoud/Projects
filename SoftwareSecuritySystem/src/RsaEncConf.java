@@ -1,5 +1,3 @@
-// Source File Name:   Rsaencconf.java
-
 import java.io.*;
 import java.math.BigInteger;
 

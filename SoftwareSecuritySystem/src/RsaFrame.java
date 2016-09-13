@@ -1,5 +1,3 @@
-// Source File Name:   Sss.java
-
 import java.awt.*;
 import java.awt.event.*;
 import java.io.FileWriter;

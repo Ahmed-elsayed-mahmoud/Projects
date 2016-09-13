@@ -1,5 +1,3 @@
-// Source File Name:   Rsadecsign.java
-
 import java.io.FileWriter;
 import java.math.BigInteger;
 

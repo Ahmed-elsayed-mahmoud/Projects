@@ -1,5 +1,3 @@
-// Source File Name:   Table.java
-
 
 public class Table
 {

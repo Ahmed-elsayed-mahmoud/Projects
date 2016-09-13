@@ -1,5 +1,3 @@
-// Source File Name:   Dsasigngen.java
-
 import java.math.BigInteger;
 
 public class Dsasigngen

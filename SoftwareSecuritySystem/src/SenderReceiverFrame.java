@@ -1,4 +1,3 @@
- // Source File Name:   Sss.java
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -1,6 +1,3 @@
-// Source File Name:   Dsasha.java
-
-
 class Dsamsgdig
 {
 

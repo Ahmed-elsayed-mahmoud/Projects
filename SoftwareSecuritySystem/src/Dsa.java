@@ -1,8 +1,3 @@
-// Decompiled by DJ v3.7.7.81 Copyright 2004 Atanas Neshkov  Date: 5/29/2004 12:27:14 PM
-// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
-// Decompiler options: packimports(3) 
-// Source File Name:   Dsa.java
-
 import java.math.BigInteger;
 import java.util.Random;
 

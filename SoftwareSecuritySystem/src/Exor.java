@@ -1,6 +1,3 @@
-// Source File Name:   Exor.java
-
-
 public class Exor
 {
 

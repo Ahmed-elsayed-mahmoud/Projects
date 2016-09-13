@@ -1,5 +1,3 @@
-// Source File Name:   SBox1.java
-
 
 public class SBox1
 {

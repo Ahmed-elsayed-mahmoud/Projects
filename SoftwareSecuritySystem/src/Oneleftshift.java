@@ -1,6 +1,3 @@
-// Source File Name:   Oneleftshift.java
-
-
 public class Oneleftshift
 {
 

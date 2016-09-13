@@ -1,5 +1,3 @@
-// Source File Name:   Sss.java
-
 import java.io.FileReader;
 import java.io.IOException;
 

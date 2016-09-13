@@ -1,5 +1,3 @@
-// Source File Name:   Dsamethod.java
-
 import java.io.PrintStream;
 
 public class Dsamethod

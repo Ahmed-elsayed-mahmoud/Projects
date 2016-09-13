@@ -1,5 +1,3 @@
-// Source File Name:   Sss.java
-
 
 class Sss
 {

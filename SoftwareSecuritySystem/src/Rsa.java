@@ -1,5 +1,3 @@
-// Source File Name:   Rsa.java
-
 import java.util.Random;
 
 class Rsa

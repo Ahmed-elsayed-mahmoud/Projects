@@ -1,5 +1,3 @@
-// Source File Name:   Newdecrypt.java
-
 import java.io.*;
 
 public class Newdecrypt

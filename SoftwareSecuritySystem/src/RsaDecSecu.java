@@ -1,6 +1,3 @@
-// Source File Name:   Rsadecsecu.java
-
-
 public class RsaDecSecu
 {
 

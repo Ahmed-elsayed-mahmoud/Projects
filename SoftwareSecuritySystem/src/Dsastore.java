@@ -1,5 +1,3 @@
-// Source File Name:   Dsastore.java
-
 import java.io.*;
 import java.math.BigInteger;
 
